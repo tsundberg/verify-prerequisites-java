@@ -31,6 +31,7 @@ I did
 
     git clone git@github.com:tsundberg/verify-prerequisites-java.git
 
+## Verify the build
 
 Then enter the directory with the source code and run
 
