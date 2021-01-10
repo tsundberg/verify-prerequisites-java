@@ -4,6 +4,8 @@ This project is used for verifying the prerequisites for the upcoming workshop y
 
 It uses Gradle and should download all dependencies you need.
 
+## Verify Java
+
 It does require Java to run. Verify your installed version with
 
     java -version
@@ -21,7 +23,14 @@ when I verified my installation.
 
 It also verifies that you can reach Maven central and download dependencies needed for the upcoming workshop.
 
+## Clone the repository
+
 Clone this repository using Git or download a zip-file that includes everything you need.
+
+I did
+
+    git clone git@github.com:tsundberg/verify-prerequisites-java.git
+
 
 Then enter the directory with the source code and run
 
