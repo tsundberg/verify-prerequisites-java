@@ -31,7 +31,7 @@ or
 
     gradlew.bat clean test
 
-You should see Gradle being downloaded, the dependencies needed should be downloaded and finally a unit test should be
+You should see Gradle being downloaded, the dependencies needed should be downloaded, and finally a unit test should be
 executed with a successful result.
 
 A successful build looks something similar to this:
